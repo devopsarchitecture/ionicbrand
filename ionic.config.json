@@ -1,5 +1,7 @@
 {
   "name": "ionicbrand",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
